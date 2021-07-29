@@ -38,6 +38,7 @@ This application exists thanks to the following great libraries:
     > https://github.com/pierresprim/Windows-API-Code-Pack
 
 * FluentWPF
+
     v0.9.0
 
     > https://github.com/sourcechord/FluentWPF
@@ -64,4 +65,4 @@ This application exists thanks to the following great libraries:
 
     > https://www.freepik.com/
 
-##### (the source code of those libraries is included in the source code, to have more flexibility, and keep single targeting framework)
+##### (the modified source code of those libraries is included in the source code of this repository, to have more flexibility, and keep single targeting framework)
