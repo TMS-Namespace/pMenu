@@ -1,7 +1,7 @@
 # pMenu (Under development)
 pMenu is a free, open source, portable, modern, customizable start menu alternative.
 
-<img src="images/pMenu_img.png" width=50%>
+<img src="images/pMenu_img.png" width=65%>
 
 # Feuters
 *	Supported links:
@@ -22,7 +22,7 @@ Full drag and drop support, custom ordering.
 
 # Participating
 
-Currently the app is under development, meanwhile, any comments and suggestions are welcomed on the issue page.
+Currently the app is under development, meanwhile, any comments and suggestions are welcomed on the issue page 😊.
 
 # Credits
 The application is built using C# and .Net Core v3.1 framework.
@@ -64,4 +64,4 @@ This application exists thanks to the following great libraries:
 
     > https://www.freepik.com/
 
-##### (the source code of those libraries is included in the source code, to have more flexibility, and keep single targeting framework)😊
+##### (the source code of those libraries is included in the source code, to have more flexibility, and keep single targeting framework)
