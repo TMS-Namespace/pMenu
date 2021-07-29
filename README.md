@@ -25,7 +25,7 @@ Full drag and drop support, custom ordering.
 Currently the app is under development, meanwhile, any comments and suggestions are welcomed on the issue page 😊.
 
 # Credits
-The application is built using C# and .Net Core v3.1 framework.
+The application is a WPF project built using C# and .Net Core v3.1 framework.
 
 This application exists thanks to the following great libraries:
 
