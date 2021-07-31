@@ -1,7 +1,7 @@
 # pMenu (Under development)
 pMenu is a free, open source, portable, modern, customizable start menu alternative.
 
-<img src="images/pMenu_img.png" width=65%>
+<img src="images/pMenu_img.jpg" width=75%>
 
 # Feuters
 *	Supported links:
@@ -13,12 +13,13 @@ pMenu is a free, open source, portable, modern, customizable start menu alternat
 * Relative path support, useful for links to portable apps.
 * Categories of unlimited hierarchy depth.
 * individual Grouping and sorting for each category\view.
-Full drag and drop support, custom ordering.
+* Full drag and drop support, custom ordering.
 * Custom icons to any item. Custom avatar.
 * Search, recent apps, most used, favorite apps.
 * Broken items are detected, and can be hidden instead of deleting them, so they will be available again when you reinstall/de-archive the program.
 * Auto run pMenu, and auto run apps of custom time delay after menu start.
 * Set apps to run as administrator, without the need to indicate the admin password every time.
+* Animations, icon reflections, and shadows for your eye please.
 
 # Participating
 
@@ -51,7 +52,7 @@ This application exists thanks to the following great libraries:
 
 * GongSolutions WPF DragDrop
 
-    v 2.3.2
+    v 2.3.2 (29/10/2020)
 
     > https://github.com/punker76/gong-wpf-dragdrop
 
