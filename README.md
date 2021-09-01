@@ -1,12 +1,12 @@
 # pMenu (Under development)
 
-pMenu is a free, open source, portable, modern, customizable start menu alternative.
+pMenu is a free, open source, portable, modern and customizable start menu alternative.
 
 <img src="images/pMenu_img.jpg" width=75%>
 
 # Features
 
-- Supported links:
+- Supported types:
   - classical Win32 applications.
   - modern UWP apps.
   - shell objects (like control panel).
@@ -14,14 +14,16 @@ pMenu is a free, open source, portable, modern, customizable start menu alternat
   - usual files.
 - Relative path support, useful for links to portable apps.
 - Categories of unlimited hierarchy depth.
-- individual Grouping and sorting for each category\view.
+- Internal links: same item can exisit in multiple places.
+- Individual Grouping and sorting for each category\view.
 - Full drag and drop support, custom ordering.
-- Custom icons to any item. Custom avatar.
+- Custom icons to any item, custom avatar, loading icons from libraries.
 - Search, recent apps, most used, favorite apps.
-- Broken items are detected, and can be hidden instead of deleting them, so they will be available again when you reinstall/de-archive the program.
+- Broken items are detected, and can be hidden instead of deleting them, so they will be available again when you reinstall/de-archive, or change PC.
 - Auto run pMenu, and auto run apps of custom time delay after menu start.
-- Set apps to run as administrator, without the need to indicate the admin password every time.
+- Configure to run apps as administrator, without the need to indicate the admin password every time.
 - Animations, icon reflections, and shadows for your eye please.
+- Ability to hide/show some parts of Menu Ui for your likings.
 
 # Participating
 
@@ -41,7 +43,7 @@ And it exists thanks to the following great libraries:
 
 - FluentWPF
 
-  v0.9.0
+  v0.10.0 (11.08.2021)
 
   > https://github.com/sourcechord/FluentWPF
 
@@ -81,7 +83,12 @@ And it exists thanks to the following great libraries:
 
   > https://github.com/bblanchon/WpfBindingErrors
 
-- Main application Icon
+- Extracting Icons from EXE/DLL and Icon Manipulation
+
+  v1.0 (17 Jan 2009)
+  > https://www.codeproject.com/Articles/32617/Extracting-Icons-from-EXE-DLL-and-Icon-Manipulatio
+
+- pMenu internal Icons
 
   > https://www.freepik.com/
 
